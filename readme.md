@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/yadders"><img src="https://api.daily.dev/devcards/ad115fb45150415ca52b26e5c8c4962d.png?r=0cm" width="400" alt="Yandi Fenanda's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Yandi Fenanda</h1>
 <h3 align="center">Coffee-driven Developer.</h3>
 
